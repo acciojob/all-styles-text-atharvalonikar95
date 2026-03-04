@@ -1,1 +1,14 @@
 //your code here
+.main {
+	width: 200px;
+	background-color: purple;
+	border-left: 5px solid green;
+	padding: 10px;
+}
+
+.heading {
+	font-size: 20px;
+	color: white;
+	text-decoration: underline;
+	margin: 0; /* remove default margin */
+}
